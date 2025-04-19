@@ -1,0 +1,122 @@
+# Watchers Game Doc
+## Ideas
+- Augments
+  - Operator-based (like Rainbow)
+    - Specific Player Models (Identifying enemy augments can be done at a glance)
+  - Crafted and Uploaded
+    - Generic Player Models (Identifying enemy augments cannot be done at a glance)
+- Reaper Construction
+  - Robot (Pure Conciousness upload, like Avatar)
+    - Limited Player Customization
+    - Easier to create models
+  - Android (Biomechanical copy of Host)
+    - Full Player Customization
+    - Harder to create models
+## Watchers
+- Functions
+  - Man the Computer Station
+  - Monitor Reaper Vitals
+  - Maintain connection to Reapers
+- Augments
+  - Team disconnect (insane cooldown)
+    - Select team to disconnect
+  - Respawn Reaper (long cooldown)
+    - Activated at Control Panel
+## Reapers
+- Functions
+  - Complete Objectives
+  - Gather materials (for upgrading main base stations)
+- Augments
+  - Player disconnect (insane cooldown)
+    - Nearest enemy player
+  - Material Ping <general> (quick cooldown)
+  - Material Ping <specific> (medium cooldown)
+## Main Base
+- Themes
+  - Van
+    - Starting theme
+    - Very basic
+    - Minimal room/stations
+  - Prison Cell
+    - Possible Story-Related
+    - Multiple Cells allowws for more room
+  - Field Base
+    - Outdoor Makeshift Field Setup
+    - Can only support low-tier stations
+  - Cabin
+    - More room
+    - Mid-game base, supports all but high-tier stations
+  - Futuristic
+    - Late-game theme
+    - supports all stations
+- Stations
+  - Computer Station
+    - Upgrade main base (outside game)
+    - Monitor Reaper Vitals (in game)
+    - Camera Monitors (in game)
+  - Reaper Pods
+    - Where Reapers go to get in the level
+    - Slot for weapon, any augments/attachments will be sent with Reaper
+      - Last imputed weapon is what is sent
+    - Slot of Player Augments (If there are no operators)
+  - Firing Range
+      - Test weapon Augments/Attachments
+  - Weapon Bench
+    - Craft Augments
+    - Craft Weapons
+    - Attach Weapon Augments/Attachments
+  - Control Panel/Shop
+    - Fix any sabotages (in game)
+    - Buy Cosmetics (outside game)
+## Maps
+- Small Maps
+
+- Medium Maps
+  - Dense Forest
+    - Aztec Theme?
+    - Log Cabin?
+  - Desert
+    - Rundown Buildings for Cover
+    - Middle East?
+  - Snow (Possibly mixture between forest and glacier areas)
+    - Log Cabin?
+  - Small Town
+    - Wild West?
+    - Modernized?
+- Large Maps
+  - City
+  - Castle
+  - Prison
+## Game Modes
+- Capture the Flag
+  - Small Map
+  - 2 Teams
+- Team Deathmatch
+  - Small/Medium Map
+- Hardpoint
+  - Medium Map
+  - 3-4 Teams
+  - Attacking Teams have no Watcher, instead have 4 Reapers
+  - Attack Reapers automatically respawn (5s cooldown) in their respective sides of the map
+  - Take over the hardpoint to gain access to a Watcher (physically in Hardpoint)
+  - Defending Watcher functions as normal
+  - Defending Reapers only respawn when someone accesses the Control Panel, then respawn in Hardpoint (10s cooldown)
+  - Holding the Hardpoint gives points towards objective
+  - Team with the most points after time, or first to hit a threshold wins
+- Domination
+  - Medium Map
+  - 3-4 Teams
+  - Similar to Hardpoint, each Choke Point gives a team points towards objective
+  - Team with the most points after time, or first to hit a threshold wins
+- Material Gathering
+  - Large Map
+  - 10+ Teams
+  - No Respawns, unless Watcher activates it
+  - Main goal is to gather materials to upgrade main base
+  - Exfil as team to get materials
+  - If a Reaper dies with materials, all materials are dropped for other players to grab
+- Zombies/Round Based Survival?
+  - Medium/Large Map
+  - 1 Team
+## Lore
+- Group of Hackers, hacked into a major security company who ran a biomechanical AI Police force
