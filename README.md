@@ -17,7 +17,7 @@ _**Using Unreal Engine 5.5.4**_
   - Possibly add material gathering
   - Need reason to continue infinitely
     - 'Zombies' drop certain valuable items?
-    - Harder 'Zombies' drop better items
+      - Harder 'Zombies' drop better items
 ## Watchers
 - Functions
   - Man the Computer Station
