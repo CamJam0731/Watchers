@@ -13,6 +13,11 @@ _**Using Unreal Engine 5.5.4**_
   - Android (Biomechanical copy of Host)
     - Full Player Customization
     - Harder to create models
+- "Zombies" Game Mode
+  - Possibly add material gathering
+  - Need reason to continue infinitely
+    - 'Zombies' drop certain valuable items?
+    - Harder 'Zombies' drop better items
 ## Watchers
 - Functions
   - Man the Computer Station
