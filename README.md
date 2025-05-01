@@ -18,6 +18,8 @@ _**Using Unreal Engine 5.5.4**_
   - Need reason to continue infinitely
     - 'Zombies' drop certain valuable items?
       - Harder 'Zombies' drop better items
+     
+        
 ## Watchers
 - Functions
   - Man the Computer Station
@@ -28,6 +30,8 @@ _**Using Unreal Engine 5.5.4**_
     - Select team to disconnect
   - Respawn Reaper (long cooldown)
     - Activated at Control Panel
+   
+      
 ## Reapers
 - Functions
   - Complete Objectives
@@ -37,6 +41,19 @@ _**Using Unreal Engine 5.5.4**_
     - Nearest enemy player
   - Material Ping <general> (quick cooldown)
   - Material Ping <specific> (medium cooldown)
+ 
+
+## Operators
+  - Raven
+    - Watcher Ability: Scavenge
+      - Select Material from Menu
+      - Live Pings for Each Instance
+      - <>s Countdown to Select New Material
+    - Reaper Ability: 
+      - See Friendly Players through Walls
+      - Passive
+     
+        
 ## Main Base
 - Themes
   - Van
@@ -74,6 +91,8 @@ _**Using Unreal Engine 5.5.4**_
   - Control Panel/Shop
     - Fix any sabotages (in game)
     - Buy Cosmetics (outside game)
+   
+      
 ## Maps
 - Small Maps
 
@@ -93,6 +112,8 @@ _**Using Unreal Engine 5.5.4**_
   - City
   - Castle
   - Prison
+ 
+    
 ## Game Modes
 - Capture the Flag
   - Small Map
@@ -124,5 +145,7 @@ _**Using Unreal Engine 5.5.4**_
 - Zombies/Round Based Survival?
   - Medium/Large Map
   - 1 Team
+ 
+    
 ## Lore
 - Group of Hackers, hacked into a major security company who ran a biomechanical AI Police force
