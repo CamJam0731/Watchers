@@ -91,6 +91,11 @@ _**Using Unreal Engine 5.5.4**_
   - Control Panel/Shop
     - Fix any sabotages (in game)
     - Buy Cosmetics (outside game)
+  - Operator Camp
+    - Select Operator
+    - Acquire New Operators
+    - View Operator Health
+      - Health regen is tied to level of Camp
    
       
 ## Maps
