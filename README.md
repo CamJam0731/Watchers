@@ -49,7 +49,7 @@ _**Using Unreal Engine 5.5.4**_
       - Select Material from Menu
       - Live Pings for Each Instance
       - <>s Countdown to Select New Material
-    - Reaper Ability: 
+    - Reaper Ability: Visio Corvis
       - See Friendly Players through Walls
       - Passive
      
