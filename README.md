@@ -53,10 +53,10 @@ _**Using Unreal Engine 5.5.4**_
       - See Friendly Players through Walls
       - Passive
   - Turtle [tank]
-    - Watcher Ability: 
+    - Watcher Ability: Hard Shell
       - Reaper Shield
       - Passive
-    - Reaper Ability: Hard Shell
+    - Reaper Ability: Extra Armor
       - More Health
       - Slower Movement
   - [healer]
