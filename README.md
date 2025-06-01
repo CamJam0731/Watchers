@@ -59,9 +59,9 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: Hard Shell
       - More Health
       - Slower Movement
-  - name [healer]
+  - [healer]
     - Watcher Ability:
-      - 
+      - todo
     - Reaper Ability: 
       - Single Heal (medium cooldown)
       - Team Heal (long cooldown)
