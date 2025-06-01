@@ -44,7 +44,7 @@ _**Using Unreal Engine 5.5.4**_
  
 
 ## Operators
-  - Raven
+  - Raven <utility>
     - Watcher Ability: Scavenge
       - Select Material from Menu
       - Live Pings for Each Instance
@@ -52,7 +52,28 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: Visio Corvis
       - See Friendly Players through Walls
       - Passive
-     
+  - Turtle <tank>
+    - Watcher Ability: 
+      - Reaper Shield
+      - Passive
+    - Reaper Ability: Hard Shell
+      - More Health
+      - Slower Movement
+  - <healer>
+    - Watcher Ability:
+      - 
+    - Reaper Ability: 
+      - Single Heal (medium cooldown)
+      - Team Heal (long cooldown)
+  - Ghost <utility>
+    - Watcher Ability: Astral Project
+      - AI Reaper Companion
+      - Heal Phantom (medium cooldown)
+      - Respawn Phantom (long cooldown)
+    - Reaper Ability: Plane Shift
+      - Self Invisibility (quick cooldown)
+      - Team Invisibility (long cooldown)
+
         
 ## Main Base
 - Themes
