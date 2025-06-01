@@ -59,7 +59,7 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: Hard Shell
       - More Health
       - Slower Movement
-  - [healer]
+  - name [healer]
     - Watcher Ability:
       - 
     - Reaper Ability: 
