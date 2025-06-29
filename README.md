@@ -65,6 +65,16 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: 
       - Single Heal (medium cooldown)
       - Team Heal (long cooldown)
+  - Hare [Movement]
+    - Watcher Ability: Second Wind (may remove)
+      - 30% Movement Increase for Reapers (10s)
+      - Medium cooldown
+      - Active
+    - Watcher Ability: Quick Footed (may remove)
+      - 10% Movement Increase for Reapers
+      - Passive
+    - Reaper Ability: 
+      - Quick Dash, any direction (quick cooldown)
   - Ghost [utility] (too complicated for alpha)
     - Watcher Ability: Astral Project
       - AI Reaper Companion
