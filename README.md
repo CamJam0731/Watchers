@@ -77,7 +77,7 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: 
       - Single Heal (medium cooldown)
       - Team Heal (long cooldown)
-   - Ghost [utility] (too complicated for alpha)
+  - Ghost [utility] (too complicated for alpha)
     - Watcher Ability: Astral Project
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
