@@ -56,16 +56,12 @@ _**Using Unreal Engine 5.5.4**_
     - Watcher Ability: Hard Shell
       - Reaper Shield
       - Passive
-    - Reaper Ability: Extra Armor
+    - Reaper Ability: 
+      - Each enemy in range loses 5% max health
+      - Turtle gains all health enemies lose
       - More Health
       - Slower Movement
-  - [healer]
-    - Watcher Ability:
-      - todo
-    - Reaper Ability: 
-      - Single Heal (medium cooldown)
-      - Team Heal (long cooldown)
-  - Hare [Movement]
+ - Hare [Movement]
     - Watcher Ability: Second Wind (may remove)
       - 30% Movement Increase for Reapers (10s)
       - Medium cooldown
@@ -75,7 +71,13 @@ _**Using Unreal Engine 5.5.4**_
       - Passive
     - Reaper Ability: 
       - Quick Dash, any direction (quick cooldown)
-  - Ghost [utility] (too complicated for alpha)
+  - [healer]
+    - Watcher Ability:
+      - todo
+    - Reaper Ability: 
+      - Single Heal (medium cooldown)
+      - Team Heal (long cooldown)
+   - Ghost [utility] (too complicated for alpha)
     - Watcher Ability: Astral Project
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
