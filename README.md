@@ -43,8 +43,8 @@ _**Using Unreal Engine 5.5.4**_
   - Material Ping <specific> (medium cooldown)
  
 
-## Operators
-  - Raven [utility]
+## Specialists
+  - Raven [Utility]
     - Watcher Ability: Scavenge
       - Select Material from Menu
       - Live Pings for Each Instance
@@ -52,7 +52,7 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Ability: Visio Corvis
       - See Friendly Players through Walls
       - Passive
-  - Turtle [tank]
+  - Turtle [Tank]
     - Watcher Ability: Hard Shell
       - Reaper Shield
       - Passive
@@ -61,7 +61,7 @@ _**Using Unreal Engine 5.5.4**_
       - Turtle gains all health enemies lose
       - More Health
       - Slower Movement
- - Hare [movement]
+ - Hare [Movement]
     - Watcher Ability: Second Wind (may remove)
       - 30% Movement Increase for Reapers (10s)
       - Medium cooldown
@@ -71,13 +71,13 @@ _**Using Unreal Engine 5.5.4**_
       - Passive
     - Reaper Ability: 
       - Quick Dash, any direction (quick cooldown)
-  - [healer] (not for alpha)
+  - [Medic] (not for alpha)
     - Watcher Ability:
       - todo
     - Reaper Ability: 
       - Single Heal (medium cooldown)
       - Team Heal (long cooldown)
-  - Ghost [utility] (too complicated for alpha)
+  - Ghost [Utility] (too complicated for alpha)
     - Watcher Ability: Astral Project
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
