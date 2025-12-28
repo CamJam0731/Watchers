@@ -44,6 +44,11 @@ _**Using Unreal Engine 5.5.4**_
  
 
 ## Specialists
+  - Empty [None]
+    - Watcher Ability:
+      - 
+    - Reaper Ability:
+      - 
   - Raven [Utility]
     - Watcher Ability: Scavenge
       - Select Material from Menu
