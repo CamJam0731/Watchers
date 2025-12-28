@@ -48,7 +48,7 @@ _**Using Unreal Engine 5.5.4**_
     - Watcher Ability:
       - 
     - Reaper Ability:
-      - 
+      - 120% HP
   - Raven [Utility]
     - Watcher Ability: Scavenge
       - Select Material from Menu
