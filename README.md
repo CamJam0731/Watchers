@@ -56,7 +56,7 @@ _**Using Unreal Engine 5.5.4**_
     - Watcher Ability: Hard Shell
       - Reaper Shield
       - Passive
-    - Reaper Ability: 
+    - Reaper Ability: Testudine Tolerance
       - Each enemy in range loses 5% max health
       - Turtle gains all health enemies lose
       - More Health
@@ -69,7 +69,7 @@ _**Using Unreal Engine 5.5.4**_
     - Watcher Ability: Quick Footed (may remove)
       - 10% Movement Increase for Reapers
       - Passive
-    - Reaper Ability: 
+    - Reaper Ability: Lagomorph Leap
       - Quick Dash, any direction (quick cooldown)
   - [Medic] (not for alpha)
     - Watcher Ability:
