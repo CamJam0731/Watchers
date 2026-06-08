@@ -1,4 +1,4 @@
-# Watchers Game Doc
+ist# Watchers Game Doc
 _**Using Unreal Engine 5.5.4**_
 ## Ideas
 - Augments
@@ -46,9 +46,9 @@ _**Using Unreal Engine 5.5.4**_
 ## Specialists
   - Empty [None]
     - Watcher Ability:
-      - 
+      - Reapers get 120% health
     - Reaper Ability:
-      - 120% HP
+      - 200% HP
   - Raven [Utility]
     - Watcher Ability: Scavenge
       - Select Material from Menu
@@ -87,10 +87,32 @@ _**Using Unreal Engine 5.5.4**_
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
       - Respawn Phantom (long cooldown)
-    - Reaper Ability: Plane Shift
+    - Reaper Ability: Shadow Walk
       - Self Invisibility (quick cooldown)
+    - Reaper Ability: Plane Shift
       - Team Invisibility (long cooldown)
 
+## Classes
+- Movement
+  - Used to access out of reach places
+    - Parkour, double jump, dash, etc.
+  - Functions as DPS
+    - Higher Speed
+    - Lower Health
+    - Higher Crit. Multiplier
+- Utility
+  - Used to unlock areas otherwise inaccessible
+    - Hacking, precision destruction, etc.
+  - Medium Health
+  - Medium Speed
+- Tank
+  - Higher Health
+  - Lower Speed
+  - More carry weight
+- Medic
+  - Heal Other Players without using materials
+  - Medium Health
+  - Medium Speed 
         
 ## Main Base
 - Themes
@@ -129,7 +151,7 @@ _**Using Unreal Engine 5.5.4**_
   - Control Panel/Shop
     - Fix any sabotages (in game)
     - Buy Cosmetics (outside game)
-  - Operator Camp
+  - Specialist Camp
     - Select Operator
     - Acquire New Operators
     - View Operator Health
