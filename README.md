@@ -45,45 +45,42 @@ _**Using Unreal Engine 5.5.4**_
 
 ## Specialists
   - Empty [None]
-    - Watcher Ability:
+    - Watcher Passive Ability:
       - Reapers get 120% health
-    - Reaper Ability:
+    - Reaper Passive Ability:
       - 200% HP
   - Raven [Utility]
-    - Watcher Ability: Scavenge
+    - Watcher Active Ability: Scavenge
       - Select Material from Menu
       - Live Pings for Each Instance
       - <>s Countdown to Select New Material
-    - Reaper Ability: Visio Corvis
+    - Reaper Passive Ability: Visio Corvis
       - See Friendly Players through Walls
-      - Passive
   - Turtle [Tank]
-    - Watcher Ability: Hard Shell
+    - Watcher Passive Ability: Hard Shell
       - Reaper Shield
-      - Passive
-    - Reaper Ability: Testudine Tolerance
+    - Reaper Passive Ability: Testudine Tolerance
       - Each enemy in range loses 5% max health
+    - Reaper Active Ability:
       - Turtle gains all health enemies lose
-      - More Health
-      - Slower Movement
  - Hare [Movement]
-    - Watcher Ability: Second Wind (may remove)
-      - 30% Movement Increase for Reapers (10s)
+    - Watcher Active Ability: Second Wind
+      - 100% Movement Increase for Reapers (10s)
       - Medium cooldown
-      - Active
-    - Watcher Ability: Quick Footed (may remove)
-      - 10% Movement Increase for Reapers
-      - Passive
-    - Reaper Ability: Lagomorph Leap
+    - Watcher Ability: Quick Footed
+      - 25% Movement Increase for Reapers
+    - Reaper Active Ability: Lagomorph Leap
       - Quick Dash, any direction (quick cooldown)
-  - [Medic] (not for alpha)
+  - [Medic] todo
     - Watcher Ability:
       - todo
-    - Reaper Ability: 
+    - Reaper Passive Ability:
+      - Heal over time
+    - Reaper Active Ability:
       - Single Heal (medium cooldown)
       - Team Heal (long cooldown)
   - Ghost [Utility] (too complicated for alpha)
-    - Watcher Ability: Astral Project
+    - Watcher Passive Ability: Astral Project
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
       - Respawn Phantom (long cooldown)
