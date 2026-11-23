@@ -50,29 +50,39 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Passive Ability:
       - 200% HP
   - Raven [Utility]
+    - Watcher Passive Ability:
+      - todo
     - Watcher Active Ability: Scavenge
       - Select Material from Menu
       - Live Pings for Each Instance
       - <>s Countdown to Select New Material
     - Reaper Passive Ability: Visio Corvis
       - See Friendly Players through Walls
+    - Reaper Active Ability:
+      - todo
   - Turtle [Tank]
     - Watcher Passive Ability: Hard Shell
       - Reaper Shield
+    - Watcher Active Ability:
+      - todo
     - Reaper Passive Ability: Testudine Tolerance
       - Each enemy in range loses 5% max health
     - Reaper Active Ability:
       - Turtle gains all health enemies lose
  - Hare [Movement]
+    - Watcher Passive Ability: Quick Footed
+      - 25% Movement Increase for Reapers
     - Watcher Active Ability: Second Wind
       - 100% Movement Increase for Reapers (10s)
       - Medium cooldown
-    - Watcher Ability: Quick Footed
-      - 25% Movement Increase for Reapers
+    - Reaper Passive Ability:
+      - todo
     - Reaper Active Ability: Lagomorph Leap
       - Quick Dash, any direction (quick cooldown)
   - [Medic] todo
-    - Watcher Ability:
+    - Watcher Passive Ability:
+      - todo
+    - Watcher Active Ability:
       - todo
     - Reaper Passive Ability:
       - Heal over time
