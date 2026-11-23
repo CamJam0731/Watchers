@@ -75,8 +75,8 @@ _**Using Unreal Engine 5.5.4**_
     - Watcher Active Ability: Second Wind
       - 100% Movement Increase for Reapers (10s)
       - Medium cooldown
-    - Reaper Passive Ability:
-      - todo
+    - Reaper Passive Ability: "Can't Touch This"
+      - Percent chance to ignore incoming damage (excludes fall damage)
     - Reaper Active Ability: Lagomorph Leap
       - Quick Dash, any direction (quick cooldown)
   - [Medic] todo
