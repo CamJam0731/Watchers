@@ -50,24 +50,24 @@ _**Using Unreal Engine 5.5.4**_
     - Reaper Passive Ability:
       - 200% HP
   - Raven [Utility]
-    - Watcher Passive Ability:
-      - todo
+    - Watcher Passive Ability: Sharp Eye
+      - Outline materials when Reapers look at them
     - Watcher Active Ability: Scavenge
       - Select Material from Menu
       - Live Pings for Each Instance
       - <>s Countdown to Select New Material
     - Reaper Passive Ability: Visio Corvis
       - See Friendly Players through Walls
-    - Reaper Active Ability:
-      - todo
+    - Reaper Active Ability: Adaptive Awareness
+      - Ping all enemies within range
   - Turtle [Tank]
     - Watcher Passive Ability: Hard Shell
       - Reaper Shield
-    - Watcher Active Ability:
-      - todo
-    - Reaper Passive Ability: Testudine Tolerance
+    - Watcher Active Ability: Painless Threshold
+      - Reapers take 30% less damage for <>s
+    - Reaper Passive Ability: Life Pool
       - Each enemy in range loses 5% max health
-    - Reaper Active Ability:
+    - Reaper Active Ability: Testudine Tolerance
       - Turtle gains all health enemies lose
  - Hare [Movement]
     - Watcher Passive Ability: Quick Footed
@@ -94,9 +94,9 @@ _**Using Unreal Engine 5.5.4**_
       - AI Reaper Companion
       - Heal Phantom (medium cooldown)
       - Respawn Phantom (long cooldown)
-    - Reaper Ability: Shadow Walk
-      - Self Invisibility (quick cooldown)
-    - Reaper Ability: Plane Shift
+    - Reaper Passive Ability: Shadow Walk
+      - Can walk through certain doors/barricades
+    - Reaper Active Ability: Plane Shift
       - Team Invisibility (long cooldown)
 
 ## Classes
