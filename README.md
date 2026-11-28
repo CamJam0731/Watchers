@@ -112,14 +112,14 @@ _**Using Unreal Engine 5.5.4**_
     - Hacking, precision destruction, etc.
   - Medium Health
   - Medium Speed
-- Tank
-  - Higher Health
-  - Lower Speed
-  - More carry weight
 - Medic
   - Heal Other Players without using materials
   - Medium Health
   - Medium Speed 
+- Tank
+  - Higher Health
+  - Lower Speed
+  - More carry weight
         
 ## Main Base
 - Themes
